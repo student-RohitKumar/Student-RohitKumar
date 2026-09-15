@@ -67,7 +67,6 @@ That's how I've worked on legal AI systems, full-stack products, AI discovery pl
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
 </p>
 
 ### 🌐 Full-Stack / Frontend
@@ -154,3 +153,42 @@ Specialized Branch Agents
 Task Execution
  ↓
 Final Response
+```
+
+Currently focused on architecture, agent coordination and task delegation.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=student-RohitKumar&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=student-RohitKumar&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=student-RohitKumar&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+---
+
+## 🧩 Engineering Philosophy
+
+> Find a real problem → build the solution → learn what's needed along the way → ship it → improve it.
+
+I don't wait to know everything before starting.
+
+I build, break things, debug them, learn from the process, and keep shipping.
+
+---
+
+## ⭐ What I Care About
+
+Building over copying.
+Real problems over artificial projects.
+Understanding systems over blindly using abstractions.
+Shipping over endlessly planning.
+
+<p align="center">
+  <b>Building AI systems. Shipping products. Learning in public.</b>
+</p>
